@@ -1,5 +1,5 @@
 # Frontend Mentor - Shortly URL shortening API Challenge
-Coded by Alyssie
+Coded by KiranmaiPilli
 
 #### The Challenge: 
 - View the optimal layout for the site depending on their device's screen size
@@ -8,7 +8,7 @@ Coded by Alyssie
 - Copy the shortened link to their clipboard in a single click
 - Receive an error message when the form is submitted if the input field is empty
 
-#### Added features by Alyssie:
+#### Added features by KiranmaiPilli:
 - Delete existing link.
 - Show a loader while waiting for the result.
 - Receive an error message when URL is invalid.
